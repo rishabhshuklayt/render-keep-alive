@@ -11,3 +11,4 @@ jobs:
     steps:
       - name: Ping Render App
         run: curl -s https://snapcircle-vrol.onrender.com/
+         curl -s https://n8n-2081.onrender.com/
